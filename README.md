@@ -7,7 +7,7 @@ These tools enable for the parameter ensemble analysis as described in
 
 and can be applied to PISM results in
 
-- Albrecht, Torsten (2019): PISM parameter ensemble analysis of Antarctic Ice Sheet glacial cycle simulations, PANGAEA, https://doi.pangaea.de/10.1594/PANGAEA.TODO
+- Albrecht, Torsten (2019): PISM parameter ensemble analysis of Antarctic Ice Sheet glacial cycle simulations, PANGAEA, https://doi.pangaea.de/10.1594/PANGAEA.909728
 
 
 The python-based scoring scheme with respect to modern and paleo data is performed with 'python run.py'. It is based on [Pollard et al., 2016](https://doi.org/10.5194/gmd-9-1697-2016) and [Briggs et al., 2014](https://doi.org/10.1016/j.quascirev.2014.09.003).. The ensemble analysis calculates misfits to the paleo constraint database [AntICEdat (Briggs & Tarasov, 2013)](http://dx.doi.org/10.1016/j.quascirev.2012.11.021) and to [RAISED Consortium (2014)](https://doi.org/10.1016/j.quascirev.2014.06.025) as well as to modern ice geometry from [Bedmap2 (Fretwell et al., 2013)](https://doi.org/10.5194/tc-7-375-2013), [ice speed (Rignot et al., 2011)](https://doi.org/10.1126/science.1208336) an [GPS (Whitehouse et al., 2011)](http://dx.doi.org/10.1111/j.1365-246X.2012.05557.x). 
